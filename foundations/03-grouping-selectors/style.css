@@ -1,0 +1,14 @@
+.touchme,
+.leaveme {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.touchme {
+    background-color: black;
+    color: white;
+}
+
+.leaveme {
+    background-color: yellow;
+}
