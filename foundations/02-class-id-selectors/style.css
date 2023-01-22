@@ -1,0 +1,20 @@
+.odd {
+    background-color: #FF8886;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.adjustment {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#last {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
